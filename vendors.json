@@ -1,57 +1,54 @@
 [
-      {
-        id: 1,
-        name: 'Javed & Habeeb',
-        image: 'https://www.menshairstylestoday.com/wp-content/uploads/2019/04/Best-Barber-Shop-Tools.jpg',
-        reviews: 234,
-        rating: 5,
-        location: 'Kalyani Nagar',
-        openingTime: '10:00 am',
-        closingTime: '7:00 pm',
-        servicesOffered: 'Cutting, Message, Shaving',
-        staffCount: 4,
-        description: 'Keep close to Nature\'s heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean.'
-      },
-      {
-        id: 2,
-        name: 'Kaichi',
-        image: 'https://image.freepik.com/free-vector/gentleman-barber-shop-logo_96485-97.jpg',
-        reviews: 234,
-        rating: 2,
-        location: 'Viman Nagar',
-        openingTime: '10:00 am',
-        closingTime: '7:00 pm',
-        servicesOffered: 'Cutting, Message, Shaving',
-        staffCount: 4,
-        description: 'Keep close to Nature\'s heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean.'
-
-      },
-      {
-        id: 3,
-        name: 'Tony & Guy',
-        image: 'https://i.ytimg.com/vi/Be-IWz7Q2rM/maxresdefault.jpg',
-        reviews: 34,
-        rating: 1,
-        location: 'Viman Nagar',
-        openingTime: '10:00 am',
-        closingTime: '7:00 pm',
-        servicesOffered: 'Cutting, Message, Shaving',
-        staffCount: 4,
-        description: 'Keep close to Nature\'s heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean.'
-
-      },
-      {
-        id: 4,
-        name: 'Scissors',
-        image: 'https://i.ytimg.com/vi/Be-IWz7Q2rM/maxresdefault.jpg',
-        reviews: 23,
-        rating: 3.5,
-        location: 'Wadgao Sheri',
-        openingTime: '10:00 am',
-        closingTime: '7:00 pm',
-        servicesOffered: 'Cutting, Message, Shaving',
-        staffCount: 3,
-        description: 'Keep close to Nature\'s heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean.'
-
-      }
-    ]
+    {
+        "id": 1,
+        "name": "Javed & Habeeb",
+        "image": "https://www.menshairstylestoday.com/wp-content/uploads/2019/04/Best-Barber-Shop-Tools.jpg",
+        "reviews": 234,
+        "rating": 5,
+        "location": "Kalyani Nagar",
+        "openingTime": "10:00 am",
+        "closingTime": "7:00 pm",
+        "servicesOffered": "Cutting, Message, Shaving",
+        "staffCount": 4,
+        "description": "Keep close to Nature's heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean."
+    },
+    {
+        "id": 2,
+        "name": "Kaichi",
+        "image": "https://image.freepik.com/free-vector/gentleman-barber-shop-logo_96485-97.jpg",
+        "reviews": 234,
+        "rating": 2,
+        "location": "Viman Nagar",
+        "openingTime": "10:00 am",
+        "closingTime": "7:00 pm",
+        "servicesOffered": "Cutting, Message, Shaving",
+        "staffCount": 4,
+        "description": "Keep close to Nature's heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean."
+    },
+    {
+        "id": 3,
+        "name": "Tony & Guy",
+        "image": "https://i.ytimg.com/vi/Be-IWz7Q2rM/maxresdefault.jpg",
+        "reviews": 34,
+        "rating": 1,
+        "location": "Viman Nagar",
+        "openingTime": "10:00 am",
+        "closingTime": "7:00 pm",
+        "servicesOffered": "Cutting, Message, Shaving",
+        "staffCount": 4,
+        "description": "Keep close to Nature's heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean."
+    },
+    {
+        "id": 4,
+        "name": "Scissors",
+        "image": "https://i.ytimg.com/vi/Be-IWz7Q2rM/maxresdefault.jpg",
+        "reviews": 23,
+        "rating": 3.5,
+        "location": "Wadgao Sheri",
+        "openingTime": "10:00 am",
+        "closingTime": "7:00 pm",
+        "servicesOffered": "Cutting, Message, Shaving",
+        "staffCount": 3,
+        "description": "Keep close to Nature's heart... and break clear away, once in awhile,and climb a mountain or spend a week in the woods. Wash your spirit clean."
+    }
+]
