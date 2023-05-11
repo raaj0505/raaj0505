@@ -1,4 +1,4 @@
 {
-  "appointmentsUrl": "http://localhost:4001/api/appointments",
-  "vendorsUrl": "http://localhost:4001/api/vendors"
+  "appointmentsUrl": "https://raw.githubusercontent.com/raaj0505/raaj0505/bookingapi/appointments.json",
+  "vendorsUrl": "https://raw.githubusercontent.com/raaj0505/raaj0505/bookingapi/vendors.json"
 }
